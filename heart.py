@@ -19,7 +19,6 @@ try:
     t.pendown()
     t.color("white")
     t.write("°.• For:  •                                            • From: •.°", align="center", font=("Arial", 16, "normal"))
-
     
     # Рисуем фигуру
     for i in range(2550):
