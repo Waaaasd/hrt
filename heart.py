@@ -20,6 +20,7 @@ try:
     t.color("white")
     t.write("°.• For:  •                                            • From: •.°", align="center", font=("Arial", 16, "normal"))
 
+    
     #Рисуем фигуру
     for i in range(2550):
         t.goto(xt(i) * 20, yt(i) * 20)
