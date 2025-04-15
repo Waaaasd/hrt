@@ -14,6 +14,7 @@ try:
     turtle.Screen().bgcolor(0, 0, 0)
 
     # Добавляем текст сразу перед началом рисования
+    
     t.penup()
     t.goto(0, -340)
     t.pendown()
